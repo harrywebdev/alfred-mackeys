@@ -11,6 +11,9 @@ produces
 
 hit Enter to copy to Clipboard.
 
+## Download
+Download from `dist` folder https://github.com/hery-potr/alfred-mackeys/blob/master/dist/Mackeys.alfredworkflow?raw=true
+
 =======
 
 Inspired by mackeys.info
